@@ -1,0 +1,19 @@
+
+ 
+What is a gitignore file and what should it include for a Java project? 
+Gitignore command can be used to ignore certain files that seem redundant and irrelevant for the project to store.
+Below are few java project files for the gitignore :
+.mtj.tmp/
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+hs_err_pid* 
+What does fast-forward in git mean?  
+It can be used to commit final issues rather then doing it multiple times. this can increase the efficiency of git repository.
+Why should you have different branches?  
+It becomes easy for the team to collaborate and integrate on large scale project
+In a project how many remote Git repositories do you usually have? 
+2 repositories can be enough for a remote git repository.
+
